@@ -1,0 +1,39 @@
+Lista de materiais para o Arduino Starter Kit
+=============================================
+
+ 1 Livro
+ 1 Arduino Uno R3
+ 1 Cabo USB
+ 1 Protoboard
+70 Fios jumper
+ 1 Base de madeira
+ 1 Clipe para bateria de 9v
+ 6 Fotoresistores
+ 3 Potenciômetros lineares 10kOhms
+10 Botões simples
+ 1 Sensor de temperatura [TMP36]
+ 1 Sensor de inclinaçãoilt sensor,
+ 1 Display LCD (16x2)
+ 1 LED branco alta luminosidade
+ 1 LED RGB
+ 8 LEDs vermelhos
+ 8 LEDs verdes
+ 8 LEDs amarelos
+ 3 LEDs azuis
+ 1 Motor DC 6/9V
+ 1 Servo motor
+ 1 Piezo [PKM22EPP-40]
+ 1 Ponte-H em circuito [L293D]
+ 1 Optocoupler [4N35]
+ 2 Transístores Mosfet [IRF520]
+ 3 Capacitores 100uF
+ 5 Diodos [1N4007],
+ 3 Gels transparentes (vermelho, verde, azul)
+ 1 Faixa de pinos macho (40x1)
+20 Resistors 220 Ohms
+ 5 Resistors 560 Ohms
+ 5 Resistors 1 kOhms
+ 5 Resistors 4.7 kOhms
+20 Resistors 10 kOhms
+ 5 Resistors 1 MOhms
+ 5 Resistors 10 MOhms 

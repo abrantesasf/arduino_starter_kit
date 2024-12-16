@@ -1,2 +1,4 @@
-# arduino_starter_kit
-Repositório para o Arduino Starter Kit com recursos para os alunos
+# Arduino Starter Kit
+
+Recursos, esquemas, materiais e projetos do **Arduino Starter Kit** para
+alunos interessados em projetos *maker*, sistemas embarcados e outros.
